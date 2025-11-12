@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judewonders
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning web development
+- 🌱 I’m a software developer
 - 💞️ I’m looking to collaborate on some projects in web dev 
 - 📫 How to reach me arkujude1122@gmail.com
 - 😄 Pronouns: He?Him
